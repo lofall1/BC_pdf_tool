@@ -1,3 +1,2 @@
 # txt--pdf-
-you can use it to change txt into pdf 
-we are looking forward to your contribution
+You can use this to convert a PDF file to another file, or a PDF file from another file
