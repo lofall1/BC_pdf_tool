@@ -1,4 +1,4 @@
-# txt--pdf-
+# BC_pdf_tool
 You can use this to convert a PDF file to another file, or a PDF file from another file
 
 你可以用此工具将pdf文件与其他文件类型相互转换
